@@ -1,2 +1,3 @@
-# hello-world
-This is a try to start a project
+# HELLO HUMANS
+
+THIS IS A FIRST TRY TO USE GITHUT TO MANAGE MY PROJECT AND KEEP HISTORY OF THEM.
